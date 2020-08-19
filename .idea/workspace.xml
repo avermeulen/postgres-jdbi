@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3187b13c-b16d-49d3-9c7d-1ace7deff47c" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1g5bRkLGjlLOu4VnwPXlGRzm3Bn" />
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.CallFunctionTest">
+    <configuration name="CallFunctionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="postgres-jdbi" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CallFunctionTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CallFunctionTest.shouldBeAbleToCallFunction" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="postgres-jdbi" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CallFunctionTest" />
+      <option name="METHOD_NAME" value="shouldBeAbleToCallFunction" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CallFunctionTest.shouldBeAbleToCreateASubject" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="postgres-jdbi" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CallFunctionTest" />
+      <option name="METHOD_NAME" value="shouldBeAbleToCreateASubject" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostgresWithJdbiTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="postgres-jdbi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.projectcodex.jdbi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="co.projectcodex.jdbi" />
+      <option name="MAIN_CLASS_NAME" value="co.projectcodex.jdbi.PostgresWithJdbiTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostgresWithJdbiTest.shouldBeAbleToFindAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="postgres-jdbi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.projectcodex.jdbi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="co.projectcodex.jdbi" />
+      <option name="MAIN_CLASS_NAME" value="co.projectcodex.jdbi.PostgresWithJdbiTest" />
+      <option name="METHOD_NAME" value="shouldBeAbleToFindAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CallFunctionTest" />
+        <item itemvalue="JUnit.CallFunctionTest.shouldBeAbleToCreateASubject" />
+        <item itemvalue="JUnit.CallFunctionTest.shouldBeAbleToCallFunction" />
+        <item itemvalue="JUnit.PostgresWithJdbiTest" />
+        <item itemvalue="JUnit.PostgresWithJdbiTest.shouldBeAbleToFindAll" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3187b13c-b16d-49d3-9c7d-1ace7deff47c" name="Default Changelist" comment="" />
+      <created>1597407394771</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597407394771</updated>
+    </task>
+    <servers />
+  </component>
+</project>
